@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /
+Disallow: /index.html
+Disallow: /*/index.*
+
+User-agent: Megalodon
+Disallow: /
+
+Sitemap: https://xn--hhrz14b2wd0qbw52j.tk/sitemap.xml
